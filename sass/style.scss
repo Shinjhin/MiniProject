@@ -1,0 +1,24 @@
+/* Slider */
+.carousel-inner, .carousel-item {
+  height: 100vh; }
+
+.carousel-item img {
+  height: 100%;
+  object-fit: cover; }
+
+.carousel-caption {
+  left: 50%;
+  top: 50%;
+  right: auto;
+  bottom: auto;
+  padding-top: 0;
+  padding-bottom: 0; }
+
+.text-white {
+    color: white;
+    text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
+}
+
+.text-black {
+    color: black;
+}
