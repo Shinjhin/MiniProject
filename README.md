@@ -1,0 +1,2 @@
+Zastosowałem przykład z poprzedniego etapu kursu z bootstrapem, związku z kończeniem projektu zbyt późno. 
+Jednak przetestowałem parę sytuacji z dodawaniem commitów i wypychaniu ich na serwer z podglądaniem czy tez poprawianiem i zmienianiem plików.
