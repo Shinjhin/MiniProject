@@ -22,3 +22,26 @@
 .text-black {
     color: black;
 }
+
+/* 2nd col - "Nowosci" */
+.card img{
+    width: 100%;
+    height: 300px;
+    object-fit: cover;
+}
+.info{
+    background-color: #eff2f5;
+}
+.box ul{
+    margin: 12px 0 0 0;
+    padding: 0;
+}
+.box ul li{
+    list-style-type: none;
+    float: left;
+    margin-right: 15px;
+}
+.box li a{
+    font-size: 16px;
+    color: black;
+}
